@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Anmol Agrawal. I live in Austin, Texas. I am currently pursuing my Masters in Business Analytics from UT Austin.
 
 <!--
 **Anmol1311/Anmol1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
