@@ -1,7 +1,9 @@
 ### Hi there 👋
 I am Anmol. I am currently pursuing my Masters in Business Analytics from UT Austin :nerd_face:.
 I love to turn messy data into strategic insights. I have tools like Python, Machine Learning, Tableau, NLP, Data Science and Network Analytics in my toolkit which helps me in my goal. 
-For my professional journey, check out [Anmol's LinkedIn]( https://www.linkedin.com/in/anmol-agrawal/)
+For my professional journey, check out:
+[Anmol's LinkedIn]( https://www.linkedin.com/in/anmol-agrawal/)
+[Anmol's Portfolio]( https://agrawalanmol4273.wixsite.com/profile)
 
 But while you are here, look at some cool projects that I worked on!
 
